@@ -59,7 +59,7 @@
 				</executions>
 			</plugin>
 		</plugins>
-		<finalName>dockerfinal</finalName>
+		<finalName>devopsDocker-0.0.1-SNAPSHOT</finalName>
 	</build>
 
 </project>
